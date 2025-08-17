@@ -1,12 +1,86 @@
-# React + Vite
+# 🚀 Derali.ai
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+¡Bienvenido a **Derali.ai**! Una aplicación web moderna creada con **React**, **Vite** y **Tailwind CSS**, diseñada para ofrecer una experiencia fluida y atractiva a los usuarios.  
 
-Currently, two official plugins are available:
+🔗 **Despliegue en vivo:** [https://derali.netlify.app/](https://derali.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🎬 Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Derali.ai Demo](./src/assets/derali.gif)  
+*Ejemplo interactivo de la app en acción.*
+
+---
+
+## 🛠 Tecnologías principales
+
+![React](https://img.shields.io/badge/React-19.1.0-blue?logo=react&logoColor=white) 
+![Vite](https://img.shields.io/badge/Vite-7.0.4-blue?logo=vite&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.1.11-blue?logo=tailwind-css&logoColor=white) 
+![Motion](https://img.shields.io/badge/Motion-12.23.12-purple) 
+![React Hot Toast](https://img.shields.io/badge/ReactHotToast-2.5.2-red)
+
+- **⚛️ React 19** – Librería para interfaces interactivas.  
+- **⚡ Vite** – Bundler ultrarrápido para desarrollo y producción.  
+- **🎨 Tailwind CSS 4** – Framework CSS personalizable y moderno.  
+- **🎬 Motion** – Animaciones fluidas y elegantes.  
+- **🔥 React Hot Toast** – Notificaciones amigables.  
+- **📬 Web3Forms** – Gestión de formularios sin backend propio.
+
+---
+
+## 🚀 Instalación y ejecución
+
+Clona el proyecto y ejecuta:
+
+```bash
+# Instalar dependencias
+npm install
+
+# Levantar servidor de desarrollo
+npm run dev
+
+# Construir para producción
+npm run build
+
+# Previsualizar producción
+npm run preview
+✉️ Uso de Web3Forms
+Integra Web3Forms para manejar formularios de contacto de manera sencilla:
+
+javascript
+Copiar
+Editar
+formData.append("access_key", "TU_WEB3FORMS_KEY");
+✅ Envía datos de contacto directamente a Web3Forms sin necesidad de backend.
+
+🤝 Contribución
+Si deseas colaborar:
+
+Haz un fork del repositorio.
+
+Crea una rama para tu feature:
+
+bash
+Copiar
+Editar
+git checkout -b feature/nueva-funcionalidad
+Realiza tus cambios y haz commit:
+
+bash
+Copiar
+Editar
+git commit -m "Agrega nueva funcionalidad"
+Envía los cambios a tu repositorio:
+
+bash
+Copiar
+Editar
+git push origin feature/nueva-funcionalidad
+Abre un Pull Request describiendo tus cambios.
+
+📄 Licencia
+Este proyecto es de uso libre. ¡Siéntete libre de usarlo y adaptarlo a tus necesidades!
+
+✨ Disfruta usando Derali.ai y creando experiencias web increíbles!
