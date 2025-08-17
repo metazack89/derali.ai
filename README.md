@@ -8,7 +8,7 @@
 
 ## 🎬 Demo
 
-![Derali.ai Demo](./src/assets/derali.gif)  
+![Derali.ai Demo](https://github.com/metazack89/derali.ai/blob/main/src/assets/Derali.gif)  
 *Ejemplo interactivo de la app en acción.*
 
 ---
